@@ -20,4 +20,4 @@ https://testwarden.appspot.com
 
 '/entries': get request that returns every entry stored in the google google datastore DB
 
-'/push': post request that stores a new entry in the database, I used Postman to post the request to the server
+'/push': post request that stores a new entry in the database, I used Postman to post the requests to the server
