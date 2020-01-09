@@ -17,5 +17,7 @@ URL of the web API:
 https://testwarden.appspot.com
 
 '/' : Answers to part 1 and 2 of the test
+
 '/entries': get request that returns every entry stored in the google google datastore DB
+
 '/push': post request that stores a new entry in the database, I used Postman to post the request to the server
